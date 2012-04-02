@@ -41,6 +41,37 @@ $currpage = array(
         <div class="entry">
           <h1 class="entry-title">Наш Детсад в Улан-Удэ</h1>
           <p>
+            <a href="/images/fotografia/y_06a9cf0c.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/y_06a9cf0c.jpg" />
+            </a>
+            <a href="/images/fotografia/y_0952fbf8.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_0952fbf8.jpg" />
+            </a>
+            <a href="/images/fotografia/y_652cf443.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_652cf443.jpg" />
+            </a>
+            <a href="/images/fotografia/y_8f8c1b6c.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_8f8c1b6c.jpg" />
+            </a>
+            <a href="/images/fotografia/y_942897b7.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_942897b7.jpg" />
+            </a>
+            <a href="/images/fotografia/y_987c1dd7.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_987c1dd7.jpg" />
+            </a>
+            <a href="/images/fotografia/y_b60c5956.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_b60c5956.jpg" />
+            </a>
+            <a href="/images/fotografia/y_c3485c65.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_c3485c65.jpg" /></a>
+            <a href="/images/fotografia/y_de72bf7d.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_de72bf7d.jpg" /></a>
+            <a href="/images/fotografia/y_ea8d235a.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_ea8d235a.jpg" /></a>
+            <a href="/images/fotografia/y_f2e878bf.jpg" class="fancybox" rel="gallery" title="">
+                <img width="115" height="100" src="/images/fotografia/thumb/y_f2e878bf.jpg" /></a>
+          </p>
+          <p style="clear:left">
             В нашем детском садике в Улан-Удэ работают опытные специалисты.
             Три воспитательницы,  психолог и тибетолог  не только ответственно
             заботятся и играют с Вашим ребенком но и,что самое главное,
