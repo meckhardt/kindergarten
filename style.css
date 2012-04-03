@@ -242,6 +242,8 @@ a:hover {
 	margin-top:10px;
 	}
 #sidebar li {
+    list-style-position: outside;
+    margin-left: 20px;
 	
 	}
 #sidebar li a {
