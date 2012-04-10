@@ -73,14 +73,15 @@ $currpage = array(
         </div>
           <div class="entry">
               <h2>Святой Нос - Райский уголок</h2>
-              <p><a href="http://raiskiy-ugolok.baikal-gostiniza.info/"><img src="/images/baikal/baikal.jpg" width="160" height="120" alt="наш развлекательный центр для Максимиха" title="наш развлекательный центр для Максимиха" style="float:left;"/></a>Посетите <a href="http://raiskiy-ugolok.baikal-gostiniza.info/">наш развлекательный центр для Максимиха</a> прекрасный отдых на озере Байкал.</p>
+              <p><a href="http://raiskiy-ugolok.baikal-gostiniza.info/"><img src="/images/baikal/baikal.jpg" width="160" height="120" alt="наш развлекательный центр в Максимихе" title="наш развлекательный центр в Максимихе" style="float:left;"/></a>Посетите <a href="http://raiskiy-ugolok.baikal-gostiniza.info/">наш развлекательный центр в Максимихе</a> прекрасный отдых на озере Байкал.</p>
               <br/><br/><br/><br/>
           </div>
       </div>
 
       <div id="sidebar">
           <ul>
-            <li><a href="http://www.gazeta-n1.ru/arhiv/detail.php?ID=14651" title="Доклад о детских садов (Номер Один)">Доклад о детских садов (Номер Один)</a></li>
+            <li style="height: 60px;"><a href="http://www.gazeta-n1.ru/arhiv/detail.php?ID=14651" title="Статья обо мне и моём детском садике (Номер Один)">Статья обо мне и моём детском садике (Номер Один)</a></li>
+            <li style="height: 50px;"><a href="http://gazeta-n1.ru/arhiv/paper/detail.php?ELEMENT_ID=8688" title="Счастливое детство с гарантией (Номер Один)">Счастливое детство с гарантией (Номер Один)</a></li>
           </ul>
         <div id="sidebar-bottom">
 
